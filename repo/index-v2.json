@@ -1,0 +1,150 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Jardín de Hábitos"
+    },
+    "description": {
+      "en-US": "Repositorio oficial de Jardín de Hábitos: deja un mal hábito cuidando un jardín privado. Sin internet, sin cuentas. Código abierto (PolyForm Noncommercial: uso personal libre, venta solo con permiso): https://github.com/samuelvillaesco-a11y/JardinDeHabitos"
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/jardin.png",
+        "sha256": "49256b1f3179c4287149061d83e394dd9d20f3da0790c4daada67e6130cb2f7a",
+        "size": 56254
+      }
+    },
+    "address": "https://samuelvillaesco-a11y.github.io/jardin-fdroid/repo",
+    "timestamp": 1795461818000,
+    "categories": {
+      "Sports & Health": {
+        "name": {
+          "en-US": "Sports & Health"
+        }
+      }
+    }
+  },
+  "packages": {
+    "org.jardindehabitos.app": {
+      "metadata": {
+        "added": 1795461772000,
+        "categories": [
+          "Sports & Health"
+        ],
+        "changelog": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/releases",
+        "issueTracker": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/issues",
+        "lastUpdated": 1795461772000,
+        "license": "PolyForm-Noncommercial-1.0.0",
+        "sourceCode": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
+        "webSite": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
+        "screenshots": {
+          "phone": {
+            "es-MX": [
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/1-inicio.png",
+                "sha256": "43f46f4729a9d6836470e7657118d2ce50d0ea89e87ad6d9e11103915633867b",
+                "size": 47490
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/2-jardin.png",
+                "sha256": "f170ec34bc427d6de7ff73830b67d6a7078db764e3671e460583cccaeb53d930",
+                "size": 110504
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/3-arbol.png",
+                "sha256": "48a0bd371cdb67bb2e20ac1273e26e8aef47a8d08528ce9dadda78646155fc75",
+                "size": 92693
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/4-plaga.png",
+                "sha256": "427690fed7ba88c504bc2d5f4137dd5ecdec7d469acdb02e0f35a923b9d21289",
+                "size": 114309
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/5-widget.png",
+                "sha256": "467797a3dba4d48fbb76881727facf4aa2d35ea9baabc904cce7bbaddfa5b70a",
+                "size": 471522
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/6-personalizacion.png",
+                "sha256": "3b35a323870d5739ba74c1826b3bfac24e9e0b12722a6ca858b3a4ba164aad1b",
+                "size": 125719
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/7-ayuda.png",
+                "sha256": "b79200e17d18fa1ad25493a7578d6a216a8cd7a3fa67b742cfd1c8ae420ea3f6",
+                "size": 132452
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/8-ajustes.png",
+                "sha256": "b1541ba10b61e4bb2af295c9a893c584c359b93c85e69f89ddf13537fb8faae3",
+                "size": 139974
+              }
+            ]
+          }
+        },
+        "authorName": "Jardín de Hábitos",
+        "name": {
+          "es-MX": "Jardín de Hábitos",
+          "en-US": "Jardín de Hábitos"
+        },
+        "summary": {
+          "es-MX": "Deja malos hábitos cuidando un jardín privado. Sin internet, sin cuentas."
+        },
+        "description": {
+          "es-MX": "<p>Cada hábito que quieres dejar es un árbol. Cada día que lo cumples, tu árbol crece: de semilla a brote, flor, fruto y, al año, fruta legendaria.</p>\n<p><b>Discreto:</b> en el jardín y en las notificaciones solo se ve la especie del árbol, nunca el hábito. Tu estante de logros y tu diario van bajo llave (bloqueo del teléfono, PIN o patrón propio).</p>\n<p><b>Con fundamento médico:</b> los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso médico. Una recaída no es un fracaso: el árbol enferma, lo cuidas con mini-juegos y vuelve a crecer.</p>\n<p><b>Privado de verdad:</b> la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu teléfono y no hace respaldos en la nube.</p>\n<p><b>Ayuda a la mano:</b> botón de 911, tus \"jardineros\" (contactos de confianza) y la Línea de la Vida, sin candado. Widget \"Llama a tu jardinero\".</p>\n<p>No sustituye ayuda profesional.</p>\n"
+        },
+        "icon": {
+          "es-MX": {
+            "name": "/org.jardindehabitos.app/es-MX/icon_h_MPpv0vr0XNx9QdJcHL3sVwH4N92sCD_Afmnk8_Vq8=.png",
+            "sha256": "87f30fa6fd2faf45cdc7d41d25c1cbdec5701f837ddac083fc07e69e4f3f56af",
+            "size": 18086
+          }
+        },
+        "preferredSigner": "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef"
+      },
+      "versions": {
+        "aab9bca238b7b4c90fed9d0c45a34552f928d8e8c87fbba54c3dc0382c04422f": {
+          "added": 1795461772000,
+          "file": {
+            "name": "/jardin-de-habitos-1.2.apk",
+            "sha256": "aab9bca238b7b4c90fed9d0c45a34552f928d8e8c87fbba54c3dc0382c04422f",
+            "size": 16158697
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "whatsNew": {
+            "es-MX": "Nueva licencia: PolyForm Noncommercial 1.0.0. El código sigue abierto y libre para uso personal, pero nadie puede venderlo ni usarlo con fines comerciales sin permiso.\n"
+          }
+        }
+      }
+    }
+  }
+}

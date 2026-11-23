@@ -1,0 +1,94 @@
+{
+  "repo": {
+    "timestamp": 1795461818000,
+    "version": 20002,
+    "name": "Jard\u00edn de H\u00e1bitos",
+    "icon": "jardin.png",
+    "address": "https://samuelvillaesco-a11y.github.io/jardin-fdroid/repo",
+    "description": "Repositorio oficial de Jard\u00edn de H\u00e1bitos: deja un mal h\u00e1bito cuidando un jard\u00edn privado. Sin internet, sin cuentas. C\u00f3digo abierto (PolyForm Noncommercial: uso personal libre, venta solo con permiso): https://github.com/samuelvillaesco-a11y/JardinDeHabitos"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Jard\u00edn de H\u00e1bitos",
+      "categories": [
+        "Sports & Health"
+      ],
+      "changelog": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/releases",
+      "suggestedVersionName": "1.2",
+      "suggestedVersionCode": "3",
+      "issueTracker": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/issues",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "sourceCode": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
+      "webSite": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
+      "added": 1795461772000,
+      "icon": "org.jardindehabitos.app.3.png",
+      "packageName": "org.jardindehabitos.app",
+      "lastUpdated": 1795461772000,
+      "localized": {
+        "en-US": {
+          "name": "Jard\u00edn de H\u00e1bitos"
+        },
+        "es-MX": {
+          "description": "<p>Cada h\u00e1bito que quieres dejar es un \u00e1rbol. Cada d\u00eda que lo cumples, tu \u00e1rbol crece: de semilla a brote, flor, fruto y, al a\u00f1o, fruta legendaria.</p>\n<p><b>Discreto:</b> en el jard\u00edn y en las notificaciones solo se ve la especie del \u00e1rbol, nunca el h\u00e1bito. Tu estante de logros y tu diario van bajo llave (bloqueo del tel\u00e9fono, PIN o patr\u00f3n propio).</p>\n<p><b>Con fundamento m\u00e9dico:</b> los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso m\u00e9dico. Una reca\u00edda no es un fracaso: el \u00e1rbol enferma, lo cuidas con mini-juegos y vuelve a crecer.</p>\n<p><b>Privado de verdad:</b> la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu tel\u00e9fono y no hace respaldos en la nube.</p>\n<p><b>Ayuda a la mano:</b> bot\u00f3n de 911, tus \"jardineros\" (contactos de confianza) y la L\u00ednea de la Vida, sin candado. Widget \"Llama a tu jardinero\".</p>\n<p>No sustituye ayuda profesional.</p>\n",
+          "icon": "icon_h_MPpv0vr0XNx9QdJcHL3sVwH4N92sCD_Afmnk8_Vq8=.png",
+          "name": "Jard\u00edn de H\u00e1bitos",
+          "phoneScreenshots": [
+            "1-inicio.png",
+            "2-jardin.png",
+            "3-arbol.png",
+            "4-plaga.png",
+            "5-widget.png",
+            "6-personalizacion.png",
+            "7-ayuda.png",
+            "8-ajustes.png"
+          ],
+          "summary": "Deja malos h\u00e1bitos cuidando un jard\u00edn privado. Sin internet, sin cuentas.",
+          "whatsNew": "Nueva licencia: PolyForm Noncommercial 1.0.0. El c\u00f3digo sigue abierto y libre para uso personal, pero nadie puede venderlo ni usarlo con fines comerciales sin permiso.\n"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "org.jardindehabitos.app": [
+      {
+        "added": 1795461772000,
+        "apkName": "jardin-de-habitos-1.2.apk",
+        "hash": "aab9bca238b7b4c90fed9d0c45a34552f928d8e8c87fbba54c3dc0382c04422f",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.jardindehabitos.app",
+        "sig": "295d9d9d5f9be0cf3aed5194bb07afad",
+        "signer": "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef",
+        "size": 16158697,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.2"
+      }
+    ]
+  }
+}

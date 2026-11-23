@@ -1,0 +1,68 @@
+{
+  "repo": {
+    "description": {
+      "en-US": "Repositorio oficial de Jardín de Hábitos: deja un mal hábito cuidando un jardín privado. Sin internet, sin cuentas. Código abierto (PolyForm Noncommercial: uso personal libre, venta solo con permiso): https://github.com/samuelvillaesco-a11y/JardinDeHabitos"
+    },
+    "icon": {
+      "en-US": {
+        "sha256": "49256b1f3179c4287149061d83e394dd9d20f3da0790c4daada67e6130cb2f7a",
+        "size": 56254
+      }
+    },
+    "timestamp": 1795461818000
+  },
+  "packages": {
+    "org.jardindehabitos.app": {
+      "metadata": {
+        "added": 1795461772000,
+        "lastUpdated": 1795461772000,
+        "license": "PolyForm-Noncommercial-1.0.0"
+      },
+      "versions": {
+        "a17ccef03306e4b44e90128d8a4c88faac98bfba3479b8fad586bc6d7e75574b": null,
+        "f430cff4a7113a2b471293b760c3f6a59b8fe462cc0659cb6aee2f378212a232": null,
+        "aab9bca238b7b4c90fed9d0c45a34552f928d8e8c87fbba54c3dc0382c04422f": {
+          "added": 1795461772000,
+          "file": {
+            "name": "/jardin-de-habitos-1.2.apk",
+            "sha256": "aab9bca238b7b4c90fed9d0c45a34552f928d8e8c87fbba54c3dc0382c04422f",
+            "size": 16158697
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "whatsNew": {
+            "es-MX": "Nueva licencia: PolyForm Noncommercial 1.0.0. El código sigue abierto y libre para uso personal, pero nadie puede venderlo ni usarlo con fines comerciales sin permiso.\n"
+          }
+        }
+      }
+    }
+  }
+}
