@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1795461818000,
+    "timestamp": 1795762290000,
     "version": 20002,
     "name": "Jard\u00edn de H\u00e1bitos",
     "icon": "jardin.png",
@@ -18,16 +18,16 @@
         "Sports & Health"
       ],
       "changelog": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/releases",
-      "suggestedVersionName": "1.2",
-      "suggestedVersionCode": "3",
+      "suggestedVersionName": "1.3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/issues",
       "license": "PolyForm-Noncommercial-1.0.0",
       "sourceCode": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
       "webSite": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
       "added": 1795461772000,
-      "icon": "org.jardindehabitos.app.3.png",
+      "icon": "org.jardindehabitos.app.4.png",
       "packageName": "org.jardindehabitos.app",
-      "lastUpdated": 1795461772000,
+      "lastUpdated": 1795762289000,
       "localized": {
         "en-US": {
           "name": "Jard\u00edn de H\u00e1bitos"
@@ -47,13 +47,48 @@
             "8-ajustes.png"
           ],
           "summary": "Deja malos h\u00e1bitos cuidando un jard\u00edn privado. Sin internet, sin cuentas.",
-          "whatsNew": "Nueva licencia: PolyForm Noncommercial 1.0.0. El c\u00f3digo sigue abierto y libre para uso personal, pero nadie puede venderlo ni usarlo con fines comerciales sin permiso.\n"
+          "whatsNew": "Nuevo aspecto \"cuaderno de campo\": papel, t\u00edtulos con serifa e \u00edconos de l\u00ednea. Si eliges un fondo oscuro, la app cambia a tonos de noche para que todo se lea.\nCopia cifrada: guarda tu jard\u00edn en un archivo con contrase\u00f1a (Ajustes \u203a Seguridad) y recup\u00e9ralo en otro tel\u00e9fono.\nM\u00e1s seguro: si Android pierde la llave de tus datos, la app ya no se cierra; un candado ilegible ya no deja entrar; los intentos de PIN cuentan uno por uno.\nLa app abre m\u00e1s r\u00e1pido y los textos peque\u00f1os se leen mejor.\n"
         }
       }
     }
   ],
   "packages": {
     "org.jardindehabitos.app": [
+      {
+        "added": 1795762289000,
+        "apkName": "jardin-de-habitos-1.3.apk",
+        "hash": "d36a2b9fb139d0a8d753edd1706b23626b07791cadb187869bb43ef9314118bf",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.jardindehabitos.app",
+        "sig": "295d9d9d5f9be0cf3aed5194bb07afad",
+        "signer": "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef",
+        "size": 16261244,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.3"
+      },
       {
         "added": 1795461772000,
         "apkName": "jardin-de-habitos-1.2.apk",
