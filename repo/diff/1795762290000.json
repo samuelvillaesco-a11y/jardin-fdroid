@@ -1,0 +1,111 @@
+{
+  "repo": {
+    "timestamp": 1795767286000
+  },
+  "packages": {
+    "org.jardindehabitos.app": {
+      "metadata": {
+        "lastUpdated": 1795767285000,
+        "screenshots": {
+          "phone": {
+            "es-MX": [
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/1-inicio.png",
+                "sha256": "486b62c3ac14e1da3dffde7a6c0ca7b1247d06742bdb7261e2fd33b6f583d9bf",
+                "size": 44295
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/2-jardin.png",
+                "sha256": "2763f3f9278f025d741d2c7aeb7ce3751b86ea72c01a6e2bc2499920997d6dfb",
+                "size": 141358
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/3-arbol.png",
+                "sha256": "409936d061e1c31e47f4124fe311d2879bb4a945c61fda8c867ec647ca181290",
+                "size": 97056
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/4-plaga.png",
+                "sha256": "396915da8675c5470f8f21e8db44e8d9491495bcf0d4911d580050a43db6e190",
+                "size": 118006
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/5-widget.png",
+                "sha256": "467797a3dba4d48fbb76881727facf4aa2d35ea9baabc904cce7bbaddfa5b70a",
+                "size": 471522
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/6-personalizacion.png",
+                "sha256": "f63983275a5d6d78c2e2778d381cfdfae2c0b446d2e3358b544e51b68f6f2604",
+                "size": 153246
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/7-ayuda.png",
+                "sha256": "c64e21dfd1ca13bc9c9014b1df030286fe72b18ff0fade4838a007b8834f5a05",
+                "size": 131940
+              },
+              {
+                "name": "/org.jardindehabitos.app/es-MX/phoneScreenshots/8-ajustes.png",
+                "sha256": "80274ad3f3d376398914e213dc83bdf101564d52bcc2aab57355ccbcefe5befa",
+                "size": 176946
+              }
+            ]
+          }
+        },
+        "description": {
+          "es-MX": "<p>Cada hábito que quieres dejar es un árbol. Cada día que lo cumples, tu árbol crece: de semilla a brote, flor, fruto y, al año, fruta legendaria.</p>\n<p><b>Vivo:</b> tu árbol respira cuando cumples, se agrieta si tropiezas, crece con una pequeña fiesta al cambiar de etapa y da frutos que puedes cosechar. El cielo sigue la hora del día, con la luna en su fase real de noche.</p>\n<p><b>Discreto:</b> en el jardín y en las notificaciones solo se ve la especie del árbol, nunca el hábito. Tu estante de logros y tu diario van bajo llave (bloqueo del teléfono, PIN o patrón propio).</p>\n<p><b>Con fundamento médico:</b> los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso médico. Una recaída no es un fracaso: el árbol enferma, lo cuidas con mini-juegos y vuelve a crecer.</p>\n<p><b>Privado de verdad:</b> la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu teléfono y no hace respaldos en la nube.</p>\n<p><b>Ayuda a la mano:</b> botón de 911, tus \"jardineros\" (contactos de confianza) y la Línea de la Vida, sin candado. Widget \"Llama a tu jardinero\".</p>\n<p>No sustituye ayuda profesional.</p>\n"
+        },
+        "icon": {
+          "es-MX": {
+            "name": "/org.jardindehabitos.app/es-MX/icon_jbEzgU_37BKczsj_mwfXql9rgYp_O-vUhsfXDvXC95k=.png",
+            "sha256": "8db133814ff7ec129ccec8ff9b07d7aa5f6b818a7f3bebd486c7d70ef5c2f799",
+            "size": 414433
+          }
+        }
+      },
+      "versions": {
+        "b92f82adef0fd65f481d9b9250b2e89f73d7015cc8941503dcb8577f4bd72035": {
+          "added": 1795767285000,
+          "file": {
+            "name": "/jardin-de-habitos-1.4.apk",
+            "sha256": "b92f82adef0fd65f481d9b9250b2e89f73d7015cc8941503dcb8577f4bd72035",
+            "size": 16945354
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.4",
+            "versionCode": 5,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "whatsNew": {
+            "es-MX": "Tu árbol cobra vida: respira cuando cumples, se agrieta si tropiezas, crece con una pequeña fiesta al cambiar de etapa, la tierra se moja al regar, caen hojas al podar y puedes cosechar sus frutos.\nEl cielo sigue la hora: sol de día, atardecer y la luna en su fase real de noche.\nNuevo aviso de mañana: \"Hoy puede florecer tu manzano\", con su dibujo.\nFondos ilustrados nuevos y logo nuevo. Se quitó la pregunta de tiempo previo al plantar.\n"
+          }
+        }
+      }
+    }
+  }
+}

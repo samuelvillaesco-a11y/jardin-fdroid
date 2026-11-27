@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="jardin.png" name="Jardín de Hábitos" pubkey="308204ec308202d4a003020102020900dc624267f6f990c3300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d060355040313066a617264696e3020170d3236313132303136333233325a180f32303534303430373136333233325a30233110300e060355040b1307462d44726f6964310f300d060355040313066a617264696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100a9523a2b051ff6d85937670c5eb03851a734b0c43d4faf48743f46da9817612d3d54f961381201d3391fb347d715ad1ae3aa75053775158ace426ebf12f597640c79de99d7a2ed7075e2c55779f125965e03f339bea873183a3e5aeaa60c1e5b963ce76d612bbcdc3543bbe26d6d27f3f6514de91d582cbf1693a4a4017063c9f14b9021130a1892f584db700824e63f22610d90acd5c1419bcb46a1351de42e780ede2421563f5c5481727983618ee269dcd5542ff79a6937a014796c8d4abc90154bb008fd2935b812c6f65e824a5497bd6a2eb3e2e0eeb12ea98fc2227eb2c626afe9b68e4065dd62017333c414f3b8b42ce4243551cbb302cde52f2efe8cc1a21ff84f34692a0112cd919ce6ae55bd8ebfcedaf06cdd5607a8db3e4e6c75754c3f77d3c584677d2536bad7e5a0e1b92010f50f6699e1ce240585e8d4e8d26f102c0f231fb1c36b3921ee6d20c1c1a695a48b3150e717b64abf9d78ef309ca06e38a104356ee77022fff2c97dd975a5352194b695eaf8deebfb9dbfb7a7fc7159b9073e85fffce9ae838e6a1486a78f794249392c9ed20be247c1b74294697e6fff3b1c82dc1e7f328b6803431ce6e60870b9f4f6d44c3e7c52757ece506bc8761d2718b2c60905569acc7df713905a262e85fe6ad8fb0a65b3263b7ac9f63f5210ceb383a53a692b7f90b41ce41d16ca816dbc6866b22e5f47b07aaa36110203010001a321301f301d0603551d0e04160414a715dfed53cb534d0c5dce5e94c53f6ece42de40300d06092a864886f70d01010b0500038202010030d0f4ee5984efb385ec07b72170baeda6e3086500910c32b7c139251697b0f728a33aba50bfcd7de49cbffe5373c0e3affdabf98f8f7169c13f9a04f157352ce73c3211884e54ab11910c72ef0c8015e0fcfc548dfd6249c2abbfb0de770a0468d75f41401febe239a7f43da0a0a417c354c2a116a7a86e22f26415816351d01b85d0577efd69061253a36c13e3ddf6f94a23ffa0119cdd1b43bd600ecf117b87a41069155ae183c9b27eb37a54225097688c918b9a5bb66f8f70ad16ecd864ed2ac05cdc3978be63f3ecfd5d9c6ba4bb24e087ec61a8111e038ef7b9b305e7f32287625dd0ebaaf03143fc1b4314f5399950f76b1d1515ba0952ced276335c7e9cf8337de680caeb95f369fd7b36979495dea68892f189829fe8b37279363f51b386ed5ad7c519ba27628bd0299090c2efcc58a223537cb21d000f075a8c6b0566b9a57c21be746c3035d37a9d9875c71878a88ae97072423fe08b93f0d6a49685f8af08cab51b0e9a67d4d7305dc72204a78edb7f74b60a78ef262890f16e3e117c119b9ca3288be0f690c1961d8df17fb3d476eb2f2963b7801ca6270b38fe29911f0a92fcc379172dfb88148952595c794ae0a6415a0f3c0f81cc7bf90979c8cc31c14cd90877c0efe3f3c358182e84f3cddd233fce07fa605d7be74e241df4496b9eae0033651e31be6db47181b17143ac5b8c47c9cb6d1ee7bec135e7" timestamp="1795762290" url="https://samuelvillaesco-a11y.github.io/jardin-fdroid/repo" version="20002">
+	<repo icon="jardin.png" name="Jardín de Hábitos" pubkey="308204ec308202d4a003020102020900dc624267f6f990c3300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d060355040313066a617264696e3020170d3236313132303136333233325a180f32303534303430373136333233325a30233110300e060355040b1307462d44726f6964310f300d060355040313066a617264696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100a9523a2b051ff6d85937670c5eb03851a734b0c43d4faf48743f46da9817612d3d54f961381201d3391fb347d715ad1ae3aa75053775158ace426ebf12f597640c79de99d7a2ed7075e2c55779f125965e03f339bea873183a3e5aeaa60c1e5b963ce76d612bbcdc3543bbe26d6d27f3f6514de91d582cbf1693a4a4017063c9f14b9021130a1892f584db700824e63f22610d90acd5c1419bcb46a1351de42e780ede2421563f5c5481727983618ee269dcd5542ff79a6937a014796c8d4abc90154bb008fd2935b812c6f65e824a5497bd6a2eb3e2e0eeb12ea98fc2227eb2c626afe9b68e4065dd62017333c414f3b8b42ce4243551cbb302cde52f2efe8cc1a21ff84f34692a0112cd919ce6ae55bd8ebfcedaf06cdd5607a8db3e4e6c75754c3f77d3c584677d2536bad7e5a0e1b92010f50f6699e1ce240585e8d4e8d26f102c0f231fb1c36b3921ee6d20c1c1a695a48b3150e717b64abf9d78ef309ca06e38a104356ee77022fff2c97dd975a5352194b695eaf8deebfb9dbfb7a7fc7159b9073e85fffce9ae838e6a1486a78f794249392c9ed20be247c1b74294697e6fff3b1c82dc1e7f328b6803431ce6e60870b9f4f6d44c3e7c52757ece506bc8761d2718b2c60905569acc7df713905a262e85fe6ad8fb0a65b3263b7ac9f63f5210ceb383a53a692b7f90b41ce41d16ca816dbc6866b22e5f47b07aaa36110203010001a321301f301d0603551d0e04160414a715dfed53cb534d0c5dce5e94c53f6ece42de40300d06092a864886f70d01010b0500038202010030d0f4ee5984efb385ec07b72170baeda6e3086500910c32b7c139251697b0f728a33aba50bfcd7de49cbffe5373c0e3affdabf98f8f7169c13f9a04f157352ce73c3211884e54ab11910c72ef0c8015e0fcfc548dfd6249c2abbfb0de770a0468d75f41401febe239a7f43da0a0a417c354c2a116a7a86e22f26415816351d01b85d0577efd69061253a36c13e3ddf6f94a23ffa0119cdd1b43bd600ecf117b87a41069155ae183c9b27eb37a54225097688c918b9a5bb66f8f70ad16ecd864ed2ac05cdc3978be63f3ecfd5d9c6ba4bb24e087ec61a8111e038ef7b9b305e7f32287625dd0ebaaf03143fc1b4314f5399950f76b1d1515ba0952ced276335c7e9cf8337de680caeb95f369fd7b36979495dea68892f189829fe8b37279363f51b386ed5ad7c519ba27628bd0299090c2efcc58a223537cb21d000f075a8c6b0566b9a57c21be746c3035d37a9d9875c71878a88ae97072423fe08b93f0d6a49685f8af08cab51b0e9a67d4d7305dc72204a78edb7f74b60a78ef262890f16e3e117c119b9ca3288be0f690c1961d8df17fb3d476eb2f2963b7801ca6270b38fe29911f0a92fcc379172dfb88148952595c794ae0a6415a0f3c0f81cc7bf90979c8cc31c14cd90877c0efe3f3c358182e84f3cddd233fce07fa605d7be74e241df4496b9eae0033651e31be6db47181b17143ac5b8c47c9cb6d1ee7bec135e7" timestamp="1795767286" url="https://samuelvillaesco-a11y.github.io/jardin-fdroid/repo" version="20002">
 		<description>Repositorio oficial de Jardín de Hábitos: deja un mal hábito cuidando un jardín privado. Sin internet, sin cuentas. Código abierto (PolyForm Noncommercial: uso personal libre, venta solo con permiso): https://github.com/samuelvillaesco-a11y/JardinDeHabitos</description>
 	</repo>
 	<application id="org.jardindehabitos.app">
@@ -9,8 +9,9 @@
 		<lastupdated>2026-11-27</lastupdated>
 		<name>Jardín de Hábitos</name>
 		<summary>Deja malos hábitos cuidando un jardín privado. Sin internet, sin cuentas.</summary>
-		<icon>org.jardindehabitos.app.4.png</icon>
+		<icon>org.jardindehabitos.app.5.png</icon>
 		<desc>&lt;p&gt;Cada hábito que quieres dejar es un árbol. Cada día que lo cumples, tu árbol crece: de semilla a brote, flor, fruto y, al año, fruta legendaria.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vivo:&lt;/b&gt; tu árbol respira cuando cumples, se agrieta si tropiezas, crece con una pequeña fiesta al cambiar de etapa y da frutos que puedes cosechar. El cielo sigue la hora del día, con la luna en su fase real de noche.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Discreto:&lt;/b&gt; en el jardín y en las notificaciones solo se ve la especie del árbol, nunca el hábito. Tu estante de logros y tu diario van bajo llave (bloqueo del teléfono, PIN o patrón propio).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Con fundamento médico:&lt;/b&gt; los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso médico. Una recaída no es un fracaso: el árbol enferma, lo cuidas con mini-juegos y vuelve a crecer.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Privado de verdad:&lt;/b&gt; la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu teléfono y no hace respaldos en la nube.&lt;/p&gt;
@@ -25,8 +26,21 @@
 		<tracker>https://github.com/samuelvillaesco-a11y/JardinDeHabitos/issues</tracker>
 		<changelog>https://github.com/samuelvillaesco-a11y/JardinDeHabitos/releases</changelog>
 		<author>Jardín de Hábitos</author>
-		<marketversion>1.3</marketversion>
-		<marketvercode>4</marketvercode>
+		<marketversion>1.4</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>5</versioncode>
+			<apkname>jardin-de-habitos-1.4.apk</apkname>
+			<hash type="sha256">b92f82adef0fd65f481d9b9250b2e89f73d7015cc8941503dcb8577f4bd72035</hash>
+			<size>16945354</size>
+			<sdkver>29</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-27</added>
+			<sig>295d9d9d5f9be0cf3aed5194bb07afad</sig>
+			<permissions>POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,USE_BIOMETRIC,org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
 		<package>
 			<version>1.3</version>
 			<versioncode>4</versioncode>

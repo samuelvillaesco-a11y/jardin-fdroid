@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1795762290000,
+    "timestamp": 1795767286000,
     "version": 20002,
     "name": "Jard\u00edn de H\u00e1bitos",
     "icon": "jardin.png",
@@ -18,23 +18,23 @@
         "Sports & Health"
       ],
       "changelog": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/releases",
-      "suggestedVersionName": "1.3",
-      "suggestedVersionCode": "4",
+      "suggestedVersionName": "1.4",
+      "suggestedVersionCode": "5",
       "issueTracker": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos/issues",
       "license": "PolyForm-Noncommercial-1.0.0",
       "sourceCode": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
       "webSite": "https://github.com/samuelvillaesco-a11y/JardinDeHabitos",
       "added": 1795461772000,
-      "icon": "org.jardindehabitos.app.4.png",
+      "icon": "org.jardindehabitos.app.5.png",
       "packageName": "org.jardindehabitos.app",
-      "lastUpdated": 1795762289000,
+      "lastUpdated": 1795767285000,
       "localized": {
         "en-US": {
           "name": "Jard\u00edn de H\u00e1bitos"
         },
         "es-MX": {
-          "description": "<p>Cada h\u00e1bito que quieres dejar es un \u00e1rbol. Cada d\u00eda que lo cumples, tu \u00e1rbol crece: de semilla a brote, flor, fruto y, al a\u00f1o, fruta legendaria.</p>\n<p><b>Discreto:</b> en el jard\u00edn y en las notificaciones solo se ve la especie del \u00e1rbol, nunca el h\u00e1bito. Tu estante de logros y tu diario van bajo llave (bloqueo del tel\u00e9fono, PIN o patr\u00f3n propio).</p>\n<p><b>Con fundamento m\u00e9dico:</b> los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso m\u00e9dico. Una reca\u00edda no es un fracaso: el \u00e1rbol enferma, lo cuidas con mini-juegos y vuelve a crecer.</p>\n<p><b>Privado de verdad:</b> la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu tel\u00e9fono y no hace respaldos en la nube.</p>\n<p><b>Ayuda a la mano:</b> bot\u00f3n de 911, tus \"jardineros\" (contactos de confianza) y la L\u00ednea de la Vida, sin candado. Widget \"Llama a tu jardinero\".</p>\n<p>No sustituye ayuda profesional.</p>\n",
-          "icon": "icon_h_MPpv0vr0XNx9QdJcHL3sVwH4N92sCD_Afmnk8_Vq8=.png",
+          "description": "<p>Cada h\u00e1bito que quieres dejar es un \u00e1rbol. Cada d\u00eda que lo cumples, tu \u00e1rbol crece: de semilla a brote, flor, fruto y, al a\u00f1o, fruta legendaria.</p>\n<p><b>Vivo:</b> tu \u00e1rbol respira cuando cumples, se agrieta si tropiezas, crece con una peque\u00f1a fiesta al cambiar de etapa y da frutos que puedes cosechar. El cielo sigue la hora del d\u00eda, con la luna en su fase real de noche.</p>\n<p><b>Discreto:</b> en el jard\u00edn y en las notificaciones solo se ve la especie del \u00e1rbol, nunca el h\u00e1bito. Tu estante de logros y tu diario van bajo llave (bloqueo del tel\u00e9fono, PIN o patr\u00f3n propio).</p>\n<p><b>Con fundamento m\u00e9dico:</b> los tiempos de los logros siguen la evidencia (NIAAA, DSM-5, NCI, NHS, FDA). Alcohol y sustancias muestran un aviso m\u00e9dico. Una reca\u00edda no es un fracaso: el \u00e1rbol enferma, lo cuidas con mini-juegos y vuelve a crecer.</p>\n<p><b>Privado de verdad:</b> la app no tiene permiso de internet, no usa cuentas ni rastreadores, guarda todo cifrado (SQLCipher) solo en tu tel\u00e9fono y no hace respaldos en la nube.</p>\n<p><b>Ayuda a la mano:</b> bot\u00f3n de 911, tus \"jardineros\" (contactos de confianza) y la L\u00ednea de la Vida, sin candado. Widget \"Llama a tu jardinero\".</p>\n<p>No sustituye ayuda profesional.</p>\n",
+          "icon": "icon_jbEzgU_37BKczsj_mwfXql9rgYp_O-vUhsfXDvXC95k=.png",
           "name": "Jard\u00edn de H\u00e1bitos",
           "phoneScreenshots": [
             "1-inicio.png",
@@ -47,13 +47,48 @@
             "8-ajustes.png"
           ],
           "summary": "Deja malos h\u00e1bitos cuidando un jard\u00edn privado. Sin internet, sin cuentas.",
-          "whatsNew": "Nuevo aspecto \"cuaderno de campo\": papel, t\u00edtulos con serifa e \u00edconos de l\u00ednea. Si eliges un fondo oscuro, la app cambia a tonos de noche para que todo se lea.\nCopia cifrada: guarda tu jard\u00edn en un archivo con contrase\u00f1a (Ajustes \u203a Seguridad) y recup\u00e9ralo en otro tel\u00e9fono.\nM\u00e1s seguro: si Android pierde la llave de tus datos, la app ya no se cierra; un candado ilegible ya no deja entrar; los intentos de PIN cuentan uno por uno.\nLa app abre m\u00e1s r\u00e1pido y los textos peque\u00f1os se leen mejor.\n"
+          "whatsNew": "Tu \u00e1rbol cobra vida: respira cuando cumples, se agrieta si tropiezas, crece con una peque\u00f1a fiesta al cambiar de etapa, la tierra se moja al regar, caen hojas al podar y puedes cosechar sus frutos.\nEl cielo sigue la hora: sol de d\u00eda, atardecer y la luna en su fase real de noche.\nNuevo aviso de ma\u00f1ana: \"Hoy puede florecer tu manzano\", con su dibujo.\nFondos ilustrados nuevos y logo nuevo. Se quit\u00f3 la pregunta de tiempo previo al plantar.\n"
         }
       }
     }
   ],
   "packages": {
     "org.jardindehabitos.app": [
+      {
+        "added": 1795767285000,
+        "apkName": "jardin-de-habitos-1.4.apk",
+        "hash": "b92f82adef0fd65f481d9b9250b2e89f73d7015cc8941503dcb8577f4bd72035",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.jardindehabitos.app",
+        "sig": "295d9d9d5f9be0cf3aed5194bb07afad",
+        "signer": "cb4e1e6a3af7ace2059214ddaa05aed6e7732d23322355f24e897b46e482b3ef",
+        "size": 16945354,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "org.jardindehabitos.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "1.4"
+      },
       {
         "added": 1795762289000,
         "apkName": "jardin-de-habitos-1.3.apk",
